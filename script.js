@@ -1,5 +1,5 @@
 /* ==========================================================================
-   TRANSPORT CORNER LUCKNOW — Script
+   TRANSPORT KORNER LUCKNOW — Script
    Handles: loader, navbar state, mobile menu, active link highlight,
    scroll reveal, counters, FAQ accordion, back-to-top.
    ========================================================================== */
